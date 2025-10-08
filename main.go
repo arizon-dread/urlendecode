@@ -20,6 +20,7 @@ func main() {
 			fmt.Printf("%v\n", res)
 			os.Exit(0)
 		}
+		fmt.Printf("%v", err)
 	}
 	flag.PrintDefaults()
 	os.Exit(1)
