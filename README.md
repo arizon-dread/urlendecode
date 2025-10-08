@@ -1,7 +1,7 @@
 # urlendecode
 go cli app for url encode/decode
 ## Usage
-> NOTE: wrap strings in citation marks  
+> NOTE: wrap strings in quotes  
 
 urlendecode 
   -d string
