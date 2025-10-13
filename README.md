@@ -27,7 +27,7 @@ urlendecode
 `env GOOS=windows go build .`
 
 
-## Deploy to your user
+## Deploy to your user's $PATH
 `cp urlendecode ~/.local/bin/`
 
 
