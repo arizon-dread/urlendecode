@@ -3,11 +3,11 @@ go cli app for url encode/decode
 ## Usage
 > NOTE: wrap strings in single quotes  
 
-urlendecode 
-  -d string
-        pass the string to decode
-  -e string
-        pass the string to encode
+urlendecode  
+  -d string  
+        pass the string to decode  
+  -e string  
+        pass the string to encode  
 
 ## Build
 `go build .`
