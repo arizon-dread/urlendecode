@@ -2,13 +2,13 @@
 go cli app for url encode/decode
 ## Usage
 > NOTE: wrap strings in single quotes  
-
+```bash
 urlendecode  
- &ensp; -d 'string'  
- &emsp;       pass the string to decode  
- &ensp; -e 'string'  
- &emsp;       pass the string to encode  
-
+    -d 'string'  
+         pass the string to decode  
+    -e 'string'  
+         pass the string to encode  
+```
 ## Build
 `go build .`
 
